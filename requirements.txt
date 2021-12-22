@@ -1,0 +1,7 @@
+robotframework
+robotframework-selenium2library
+browser
+requests
+image
+pyscreenshot
+webdrivermanager
